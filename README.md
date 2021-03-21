@@ -15,3 +15,7 @@ Use Purpose TAB to show what this project is for
 
 This is a sample Deployment section
 ## How to Contribute
+
+### Copyright
+
+2021 Training Git
