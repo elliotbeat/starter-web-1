@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+	Nadeem Anjum	nadeem@test.com
 
 # THANKS
 
