@@ -16,6 +16,8 @@ Use Purpose TAB to show what this project is for
 This is a sample Deployment section
 ## How to Contribute
 
+Please fork this repo and then issue
+
 ### Copyright
 
 2021 Training Git
